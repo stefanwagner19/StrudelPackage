@@ -1,4 +1,5 @@
 name = "Strudel"
+uuid = "2351dd3b-4dd3-446c-bdf3-82d3f7d29ecd"
 version = "0.1.0"
 
 [deps]
